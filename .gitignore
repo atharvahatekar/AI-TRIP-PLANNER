@@ -1,0 +1,4 @@
+venv/
+.env
+logs/
+AI_TRIP_PLANNER.egg-info/
